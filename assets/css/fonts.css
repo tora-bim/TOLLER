@@ -1,0 +1,25 @@
+/* Th */
+@font-face {
+	font-family: "LINE_Seed_Th";
+	src: url("../fonts/LINESeedJP_OTF_Th.woff") format("woff");
+	font-style: normal;
+}
+/* Rg */
+@font-face {
+	font-family: "LINE_Seed_Rg";
+	src: url("../fonts/LINESeedJP_OTF_Rg.woff") format("woff");
+	font-style: normal;
+}
+/* Bd */
+@font-face {
+	font-family: "LINE_Seed_Bd";
+	src: url("../fonts/LINESeedJP_OTF_Bd.woff") format("woff");
+	font-style: normal;
+}
+/* Eb */
+@font-face {
+	font-family: "LINE_Seed_Eb";
+	src: url("../fonts/LINESeedJP_OTF_Eb.woff") format("woff");
+	font-style: normal;
+}
+
